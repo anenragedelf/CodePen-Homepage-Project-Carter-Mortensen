@@ -1,0 +1,58 @@
+/* bottom wrapper styles */
+
+.bottom-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+
+
+.bottom-wrapper > .left-button {
+    background-color: gray;
+    height: 75px;
+    width: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white;
+
+}
+
+.bottom-wrapper > .left-center-button {
+    background-color: gray;
+    height: 75px;
+    width: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white;
+
+}
+
+.bottom-wrapper > .right-center-button {
+    background-color: gray;
+    height: 75px;
+    width: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white;
+
+}
+
+.bottom-wrapper > .right-button {
+    background-color: gray;
+    height: 75px;
+    width: 490px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white;
+
+}
